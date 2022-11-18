@@ -19,3 +19,4 @@ jupyterlite-xeus-sqlite==0.2.1
 jupyterlab-webrtc-docprovider
 plotly>=5,<6
 theme-darcula
+SciencePlots
